@@ -1,0 +1,177 @@
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Excel.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Razor.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Excel.pdb
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.Razor.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Никита\Documents\Visual Studio 2013\Projects\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\CourseWork.dll.config
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\CourseWork.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\CourseWork.pdb
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\EntityFramework.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Excel.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Owin.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Razor.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\WebGrease.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Excel.pdb
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.Razor.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\EntityFramework.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Никита\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\obj\Debug\CourseWork.pdb
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.IdentityModel.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.SharePoint.Client.dll
+C:\Users\Никита\Desktop\CourseWork\CourseWork\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\CourseWork.dll.config
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\CourseWork.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\CourseWork.pdb
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Antlr3.Runtime.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\EntityFramework.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\EntityFramework.SqlServer.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Excel.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Newtonsoft.Json.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Owin.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Helpers.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Mvc.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Optimization.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Razor.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.Razor.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\WebGrease.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Excel.pdb
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Helpers.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Mvc.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Optimization.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.Razor.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\System.Web.WebPages.Razor.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Antlr3.Runtime.pdb
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Newtonsoft.Json.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\EntityFramework.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\EntityFramework.SqlServer.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\obj\Debug\CourseWork.csprojResolveAssemblyReference.cache
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\obj\Debug\CourseWork.dll
+C:\Users\Никита\Documents\ВУЗ\Материалы 1 курс\КР Мелентьев Никита Дмитриевич, группа 101, 2015\Приложение\CourseWork\obj\Debug\CourseWork.pdb
