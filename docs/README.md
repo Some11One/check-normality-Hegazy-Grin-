@@ -1,1 +1,0 @@
-# Project Documentation written in Russian.
